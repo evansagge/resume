@@ -1,8 +1,7 @@
 Evan Sagge
 --
-- Washington DC Metro Area
-- evansagge@gmail.com
-- +1.813.505.7366
+- Washington DC Metro Area | +1.813.505.7366
+- evansagge.com | evansagge@gmail.com
 
 
 I am a software developer with a focus on web application development, with years of experience in various languages such as Ruby, Java, PHP and C/C++. I specialize in writing web applications, using mostly Ruby on Rails and Rack-based frameworks. I also write code in Javascript/Coffeescript and designing clean and simple HTML5/CSS3-compliant web UIs.
