@@ -1,5 +1,6 @@
 Evan Sagge
 --
+### Web Applications Developer
 - Washington DC Metro Area | +1.813.505.7366
 - http://evansagge.com | evansagge@gmail.com
 
@@ -34,14 +35,14 @@ Consultant Software Developer at **Deal Grocer** (http://dealgrocer.com)- 2011 -
 
   - Developed additional features for main web application using Cuba (a Rack-based web framework) and Ohm (Redis-based ORM)
 
-Technical Lead (Infinite.ly Project) at **Exist Global** (http://infinite.ly) - 2011 - 2012
+Technical Lead at **Infinite.ly** (http://infinite.ly) - 2010 - 2012
 
   - Developed Ruby on Rails 3 web applications using MongoDB and back-ground processes using Resque and Redis
   - Implemented search and indexing capabilities using ElasticSearch
   - Designed interfaces to connect with external web-based APIs such as Facebook Graph, Twitter, Google Data, and Flickr APIs to obtain social media data
   - Managed remote server infrastructure on Linux instances using Nginx, Uni-corn, Bluepill, Monit and Newrelic
 
-Software Engineer at **Exist Global** (http://exist.com) - 2008 – 2011
+Software Engineer at **Exist Global** (http://exist.com) - 2008 – 2010
 
   - Implemented and maintained web and mobile applications for various cli-ents, most of which are developed using Ruby on Rails technologies.
   - Developed new features and enhanced existing functionalities for the TotSpot social networking web site using Facebook’s OpenStream API and Twitter’s OAuth API
