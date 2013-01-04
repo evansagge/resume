@@ -1,10 +1,10 @@
-Evan Sagge
---
-**Web Applications Developer**  
-Washington DC Metro Area  
-+1.813.505.7366  
-[http://evansagge.com](http://evansagge.com)  
-[evansagge@gmail.com](evansagge@gmail.com)  
+## Evan Sagge
+***
+  **Web Applications Developer**
+  Washington DC Metro Area
+  +1.813.505.7366
+  [http://evansagge.com](http://evansagge.com)
+  [evansagge@gmail.com](evansagge@gmail.com)
 
 I am a software developer with a focus on web applications development, with years of experience in various languages such as Ruby, Java, PHP and C/C++. I specialize in writing web applications, using mostly Ruby on Rails and Rack-based frameworks. I also write code in Javascript/Coffeescript and designing clean and simple HTML5/CSS3-compliant web UIs.
 
@@ -14,14 +14,14 @@ In my free time, I enjoy playing soccer, hiking, running, biking, and traveling 
 
 I also keep a repository of personal and open-source projects on my Github page: [http://github.com/evansagge](http://github.com/evansagge).
 
-  
-Specializations
---
+***  
+### Specializations
+***
 Ruby, Ruby on Rails 3.x/2.x, MongoDB, NoSQL, MySQL, PostgreSQL, Javascript, Coffeescript, jQuery, CSS
   
-
-Professional Experience
---
+***
+### Professional Experience
+***
   
 Ruby on Rails Consultant at **Gannett** (http://gannett.com) - 2012
 
@@ -42,7 +42,7 @@ Technical Lead at **Infinite.ly** (http://infinite.ly) - Jan 2010 to Jun 2012
   - Implemented search and indexing capabilities using ElasticSearch
   - Designed interfaces to connect with external web-based APIs such as Facebook Graph, Twitter, Google Data, and Flickr APIs to obtain social media data
   - Managed remote server infrastructure on Linux instances using Nginx, Unicorn, Bluepill, Monit and Newrelic
-  - Relevant Technogies: Ruby, Ruby on Rails 3.x, Rack, Javascript, Coffeescript, jQuery, HTML5, CSS3, Linux, Nginx, Unicorn, Monit, NewRelic, REST, APIs, ElasticSearch, MongoDB, Redis, Haml, Slim, SCSS/SASS, Git, Agile methods, RSpec, Cucumber, Continuous Integration
+  - Relevant Technogies: Ruby, Ruby on Rails 3.x, Rack, Javascript, Coffeescript, jQuery, HTML5, CSS3, Linux, Nginx, Unicorn, Monit, NewRelic, REST, APIs, ElasticSearch, MongoDB, Redis, Haml, Slim, SCSS/SASS, Git, Agile methods, RSpec, Cucumber, Continuous Integration, Chef
 
 Consultant Web Developer (Part-Time) at **Deal Grocer** (http://dealgrocer.com)- Sept 2011 to Jan 2012
 
@@ -74,9 +74,9 @@ Software Design Engineer at **Blue Chip Designs** (http://bcdph.com) - Mar 2005 
   - Developed software solutions (drivers, firmware, desktop applications) for thermal printer devices, point-of-sales systems using C/C++ and OLE, Ac-tiveX, COM, MFC frameworks
   - Relevant Technologies: C, C++, Microsoft Visual Studio, MFC, OLE, ActiveX, Ruby, PHP, HTML, CSS, MySQL, PostgreSQL, MS SQL Server, CVS
 
-
-Freelance Work
---
+***
+### Freelance Work
+***
 
 **Training Payback** (http://trainingpayback.com) - 2007 to 2008
 
@@ -90,9 +90,9 @@ Freelance Work
 
   - Designed and developed the website using PHP and MySQL
 
-
-Open Source Projects
---
+***
+### Open Source Projects
+***
 
 **Mongoid-RSpec** (https://github.com/evansagge/mongoid-rspec)
 
@@ -114,14 +114,14 @@ Open Source Projects
   - PHP-based web development framework, similar to Ruby on Rails for Ruby
   - contributor from 2005-2007
 
-
-Education
---
+***
+### Education
+***
 
 - Ateneo de Manila University, Philippines – B.S. Computer Engineering, 2000 - 2005
 - Ateneo de Manila University, Philippines – B.S. Physics, 2000 - 2004
 
-
-References
---
+***
+### References
+***
 Available upon request
