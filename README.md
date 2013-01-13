@@ -122,8 +122,3 @@ Software Design Engineer at **Blue Chip Designs** (http://bcdph.com) - Mar 2005 
 
 - Ateneo de Manila University, Philippines – B.S. Computer Engineering, 2000 - 2005
 - Ateneo de Manila University, Philippines – B.S. Physics, 2000 - 2004
-
-***
-### References
-***
-Available upon request
