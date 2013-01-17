@@ -3,8 +3,8 @@
   **Web Applications Developer**  
   Washington DC Metro Area  
   +1.813.505.7366  
-  [http://evansagge.com](http://evansagge.com)  
-  [evansagge@gmail.com](evansagge@gmail.com)  
+  <http://evansagge.com>  
+  <evansagge@gmail.com>
 
 I am a software developer with a focus on web applications development, with years of experience in various languages such as Ruby, Java, PHP and C/C++. I specialize in writing web applications, using mostly Ruby on Rails and Rack-based frameworks. I also write code in Javascript/Coffeescript and designing clean and simple HTML5/CSS3-compliant web UIs.
 
