@@ -24,7 +24,6 @@ Ruby, Ruby on Rails 3.x/2.x, MongoDB, NoSQL, MySQL, PostgreSQL, Javascript, Coff
 ### Professional Experience
 ***
   
-<<<<<<< HEAD
 Ruby on Rails Consultant at **Gannett** (http://gannett.com) - Oct 2012 to Present
 
   - Implemented Salesforce CRM backend requirements using Apex
