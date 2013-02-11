@@ -23,7 +23,7 @@ Ruby, Ruby on Rails 3.x/2.x, MongoDB, NoSQL, MySQL, PostgreSQL, Javascript, Coff
 ### Professional Experience
 ***
   
-Ruby on Rails Consultant at **Gannett** (http://gannett.com) - 2012
+Ruby on Rails Consultant at **Gannett** (http://gannett.com) - Oct 2012 to Present
 
   - Implemented Salesforce CRM backend requirements using Apex
   - Developed Visualforce pages for Salesforce CRM
@@ -123,7 +123,3 @@ Software Design Engineer at **Blue Chip Designs** (http://bcdph.com) - Mar 2005 
 - Ateneo de Manila University, Philippines – B.S. Computer Engineering, 2000 - 2005
 - Ateneo de Manila University, Philippines – B.S. Physics, 2000 - 2004
 
-***
-### References
-***
-Available upon request
