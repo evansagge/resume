@@ -30,7 +30,7 @@ Ruby, Ruby on Rails, Javascript, Ember.js
 
   As part of a small software development team in Quad Learning, our main purpose was to support the American Honors program by developing software solutions relevant to each department within the small startup company. I worked to maintain and improve the original incarnation of the American Honors online learning and collaboration web application. 
   
-  I was also instrumental in redesigning this application and turining it into a distributed and service-oriented cluster of web APIs, each with a defined purpose (e.g. a login service API that serves as the single sign-on service; a primary API that serves as the central repository for American Honors data; an API for streams of messages and posts; an API for scheduling online meetings between advisors and students, virtual course sessions, and online seminars; an API that serves information about students relevant to advisors; etc). 
+  I was also instrumental in redesigning this application and turning it into a distributed and service-oriented cluster of web APIs, each with a defined purpose (e.g. a login service API that serves as the single sign-on service; a primary API that serves as the central repository for American Honors data; an API for streams of messages and posts; an API for scheduling online meetings between advisors and students, virtual course sessions, and online seminars; an API that serves information about students relevant to advisors; etc). 
   
   I also helped write the client application that consumes these APIs using Ember.js.
 
