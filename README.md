@@ -71,7 +71,7 @@ Software Developer at **Solegy** - May 2006 to Oct 2007
 Part-Time Instructor at **Ateneo de Manila University** - Jun 2005 to Nov 2005
   - Taught college classes for "Introduction to Computing: C/C++ Programming" and "Introduction to Data Structures and Algorithms"
 
-Software Design Engineer at **Blue Chip Designs** (<http://bcdph.com>) - Mar 2005 to May 2006
+Software Design Engineer at **Blue Chip Designs** - Mar 2005 to May 2006
 
   - Developed software solutions (drivers, firmware, desktop applications) for thermal printer devices, point-of-sales systems using C/C++ and OLE, ActiveX, COM, MFC frameworks
 
