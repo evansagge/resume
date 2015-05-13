@@ -22,25 +22,18 @@ Ruby, Ruby on Rails, Javascript, Ember.js
 ***
 ### Professional Experience
 ***
-Software Engineer at **New Relic** - Jan 2015 to Present
- - Worked on platform projects for Business Enablement team
+* Software Engineer at **New Relic** - Jan 2015 to Present
+  Worked on platform projects for Business Enablement team
 
-Software Engineer at **Quad Learning** - Mar 2013 to Jan 2015
- - Worked on the American Honors online learning and collaboration platform
- - Designed the American Honors architecture to turn it into a distributed service-oriented cluster of web applications using Ruby on Rails
- - Designed the single sign-on system used in American Honors to allow inter-application authentication using oAuth2 as an authentication layer
- - Developed the client web application consuming American Honors APIs using Ember.js
-  
-Software Developer at **Gannett** - Oct 2012 to Present
+* Software Engineer at **Quad Learning** - Mar 2013 to Jan 2015
 
-  - Implemented Salesforce CRM backend requirements using Apex
-  - Developed Visualforce pages for Salesforce CRM
-  - Worked on Salesforce CRM integration projects using Ruby on Rails
+  As part of a small software development team in Quad Learning, our main purpose was to support the American Honors program by developing software solutions relevant to each department within the small startup company. I worked to maintain and improve the original incarnation of the American Honors online learning and collaboration web application. I was also instrumental in redesigning this application and turining it into a distributed and service-oriented cluster of web APIs, each with a defined purpose (e.g. a login service API that serves as the single sign-on service; a primary API that serves as the central repository for American Honors data; an API for streams of messages and posts; an API for scheduling online meetings between advisors and students, virtual course sessions, and online seminars; an API that serves information about students relevant to advisors; etc). I also helped write the client application that consumes these APIs using Ember.js.
+
+* Software Developer at **Gannett** - Oct 2012 to Present
+  As a consultant for Gannet, I implemented software solutions to the Gannett Advertising department using Salesforce and Ruby on Rails.
 
 Software Developer at **iLab Solutions** - Aug 2011 to Jun 2012
-
-  - Developed and maintained new and existing products and features for in-house web applications using Ruby on Rails and Javascript/Coffeescript
-  - Ported existing applications from using Prototype to jQuery
+  I developed and maintained new and existing products and features for in-house web applications using Ruby on Rails and Javascript/Coffeescript. I was also instrumental in migrating the existing iLab web application from using Prototype to jQuery.
 
 Technical Lead at **Infinite.ly** - Jan 2010 to Jun 2012
 
