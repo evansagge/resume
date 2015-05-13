@@ -35,9 +35,11 @@ Ruby, Ruby on Rails, Javascript, Ember.js
   I also helped write the client application that consumes these APIs using Ember.js.
 
 * Software Developer at **Gannett** - Oct 2012 to Present
+  
   As a consultant for Gannet, I implemented software solutions to the Gannett Advertising department using Salesforce and Ruby on Rails.
 
 Software Developer at **iLab Solutions** - Aug 2011 to Jun 2012
+  
   I developed and maintained new and existing products and features for in-house web applications using Ruby on Rails and Javascript/Coffeescript. I was also instrumental in migrating the existing iLab web application from using Prototype to jQuery.
 
 Technical Lead at **Infinite.ly** - Jan 2010 to Jun 2012
