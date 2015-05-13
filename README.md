@@ -32,7 +32,7 @@ Ruby, Ruby on Rails, Javascript, Ember.js
   
   I was also instrumental in redesigning this application and turning it into a distributed and service-oriented cluster of web APIs, each with a defined purpose (e.g. a login service API that serves as the single sign-on service; a primary API that serves as the central repository for American Honors data; an API for streams of messages and posts; an API for scheduling online meetings between advisors and students, virtual course sessions, and online seminars; an API that serves information about students relevant to advisors; etc). 
   
-  I also helped write the client application that consumes these APIs using Ember.js.
+  I also helped write the client applications which consume these APIs using Ember.js.
 
 * Software Developer at **Gannett** - Oct 2012 to Present
   
