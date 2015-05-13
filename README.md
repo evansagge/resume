@@ -8,7 +8,7 @@
 
 I am a software developer with a focus on web applications development, with years of experience in various languages such as Ruby, Java, PHP and C/C++. I specialize in writing web applications, using mostly Ruby on Rails and Rack-based frameworks. I also write code in Javascript and design clean and simple web interfaces.
 
-I am heavily influenced with agile development practices, mostly from Scrum, REST-ful web development, test-driven development, and later on behavior-driven development, ensuring that the desired software behavior are properly identified from a practical standpoint and at the same time focusing on delivering simple, efficient, and usable software.
+I am heavily influenced with agile development practices, mostly from Scrum, REST-ful web development, test-driven development, behavior-driven development, and DCI. In software that I design and code, I strive to ensure that the desired application behavior are properly identified from a practical standpoint and at the same time focusing on delivering efficient, usable, manageable and modular software.
 
 In my free time, I enjoy playing soccer, hiking, running, biking, and traveling to new places.
 
@@ -23,6 +23,7 @@ Ruby, Ruby on Rails, Javascript, Ember.js
 ### Professional Experience
 ***
 Software Engineer at **New Relic** - Jan 2015 to Present
+ - Worked on platform projects for Business Enablement team
 
 Software Engineer at **Quad Learning** - Mar 2013 to Jan 2015
  - Worked on the American Honors online learning and collaboration platform
