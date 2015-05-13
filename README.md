@@ -30,9 +30,7 @@ Ruby, Ruby on Rails, Javascript, Ember.js
 
   As part of a small software development team in Quad Learning, our main purpose was to support the American Honors program by developing software solutions relevant to each department within the small startup company. I worked to maintain and improve the original incarnation of the American Honors online learning and collaboration web application. 
   
-  I was also instrumental in redesigning this application and turning it into a distributed and service-oriented cluster of web APIs, each with a defined purpose (e.g. a login service API that serves as the single sign-on service; a primary API that serves as the central repository for American Honors data; an API for streams of messages and posts; an API for scheduling online meetings between advisors and students, virtual course sessions, and online seminars; an API that serves information about students relevant to advisors; etc). 
-  
-  I also helped write the client applications which consume these APIs using Ember.js.
+  I was also instrumental in redesigning this application and turning it into a distributed and service-oriented cluster of web APIs, each with a defined purpose. In particular we developer a login service that serves as the single sign-on service; a context API that serves as the central repository for American Honors data; an API for streams of messages and posts; an API for scheduling online meetings between advisors and students, virtual course sessions, and online seminars; an API that serves information about students relevant to advisors; etc. I also helped write the client applications which consume these APIs using Ember.js.
 
 * Software Developer at **Gannett** - Oct 2012 to Present
   
@@ -43,37 +41,32 @@ Ruby, Ruby on Rails, Javascript, Ember.js
   I developed and maintained new and existing products and features for in-house web applications using Ruby on Rails and Javascript/Coffeescript. I was also instrumental in migrating the existing iLab web application from using Prototype to jQuery.
 
 * Technical Lead at **Infinite.ly** - Jan 2010 to Jun 2012
-
-  - Developed Ruby on Rails 3 web applications using MongoDB and back-ground processes using Resque and Redis
-  - Implemented search and indexing capabilities using ElasticSearch
-  - Designed interfaces to connect with external web-based APIs such as Facebook Graph, Twitter, Google Data, and Flickr APIs to obtain social media data
-  - Managed remote server infrastructure on Linux instances using Nginx, Unicorn, Bluepill, Monit and Newrelic
+  
+  As part of the small development team that founded Infinite.ly, I spearheaded the development of the the web applications used in this service using Ruby on Rails, MongoDB, Redis, Resque, Elasticsearch. I also designed the interfaces that were used to connect with external web APIs such as Facebook Graph, Twitter, Google Data, and Flickr APIs to obtain social media data. In addition, I managed the server infrastructure on AWS instances using Nginx, Unicorn, Bluepill, Monit and Newrelic.
 
 * Web Developer at **Deal Grocer** - Sept 2011 to Jan 2012
 
-  - Developed additional features for main web application using Cuba (a Rack-based web framework) and Ohm (Redis-based ORM)
+  I helped develop the Deal Grocer web application using Cuba (a Rack-based web framework) and Ohm (Redis-based ORM).
 
 * Software Engineer at **Exist Global** - Oct 2008 to Jan 2010
 
-  - Implemented and maintained web and mobile applications for various cli-ents, most of which are developed using Ruby on Rails technologies.
-  - Developed new features and enhanced existing functionalities for the TotSpot social networking web site using Facebook’s OpenStream API and Twitter’s OAuth API
-  - Developed a web-based photo-management application using Ruby on Rails 2.3.x and Facebook REST API
-  - Developed iPhone application to render photos as cartoonized images
+  Consulting for client companies that work with Exist Global, I implemented and maintained web and mobile applications, most of which are developed using Ruby on Rails. I also developed new features and enhanced existing functionalities for the TotSpot social networking web site using Facebook’s OpenStream API and Twitter’s OAuth API. Another company also required me to develop a web-based photo-management application using Ruby on Rails 2.3 and Facebook REST API. I also helped develop an the underlying code to render photos as cartoonized images for an iPhone application that we delivered for another client.
 
 * Web Developer at **Syndeo Media** - Oct 2007 to Oct 2008
 
-  - Implemented new features and enhanced existing functionalities for client-based projects using Ruby on Rails
+  I implemented new features and enhanced existing functionalities for client-based projects using Ruby on Rails.
 
 * Software Developer at **Solegy** - May 2006 to Oct 2007
 
-  - Developed and maintained new and existing software solutions using a mix of C++, Java (J2SE and J2EE) and Ruby coding languages
+  I developed and maintained new and existing software solutions using a mix of C++, Java (J2SE and J2EE) and Ruby coding languages
 
 * Part-Time Instructor at **Ateneo de Manila University** - Jun 2005 to Nov 2005
-  - Taught college classes for "Introduction to Computing: C/C++ Programming" and "Introduction to Data Structures and Algorithms"
+  
+  I taught college classes for "Introduction to Computing: C/C++ Programming" and "Introduction to Data Structures and Algorithms" as a part-time job for my alma mater in between the hours that I worked for Blue Chip Designs.
 
 * Software Design Engineer at **Blue Chip Designs** - Mar 2005 to May 2006
 
-  - Developed software solutions (drivers, firmware, desktop applications) for thermal printer devices, point-of-sales systems using C/C++ and OLE, ActiveX, COM, MFC frameworks
+  I was hired straight out of college by my college professors in to help develop software solutions (drivers, firmware, desktop applications) for thermal printer devices, point-of-sales systems using C/C++ and OLE, ActiveX, COM, MFC frameworks.
 
 ***
 ### Freelance Work
