@@ -38,40 +38,40 @@ Ruby, Ruby on Rails, Javascript, Ember.js
   
   As a consultant for Gannet, I implemented software solutions to the Gannett Advertising department using Salesforce and Ruby on Rails.
 
-Software Developer at **iLab Solutions** - Aug 2011 to Jun 2012
+* Software Developer at **iLab Solutions** - Aug 2011 to Jun 2012
   
   I developed and maintained new and existing products and features for in-house web applications using Ruby on Rails and Javascript/Coffeescript. I was also instrumental in migrating the existing iLab web application from using Prototype to jQuery.
 
-Technical Lead at **Infinite.ly** - Jan 2010 to Jun 2012
+* Technical Lead at **Infinite.ly** - Jan 2010 to Jun 2012
 
   - Developed Ruby on Rails 3 web applications using MongoDB and back-ground processes using Resque and Redis
   - Implemented search and indexing capabilities using ElasticSearch
   - Designed interfaces to connect with external web-based APIs such as Facebook Graph, Twitter, Google Data, and Flickr APIs to obtain social media data
   - Managed remote server infrastructure on Linux instances using Nginx, Unicorn, Bluepill, Monit and Newrelic
 
-Web Developer at **Deal Grocer** - Sept 2011 to Jan 2012
+* Web Developer at **Deal Grocer** - Sept 2011 to Jan 2012
 
   - Developed additional features for main web application using Cuba (a Rack-based web framework) and Ohm (Redis-based ORM)
 
-Software Engineer at **Exist Global** - Oct 2008 to Jan 2010
+* Software Engineer at **Exist Global** - Oct 2008 to Jan 2010
 
   - Implemented and maintained web and mobile applications for various cli-ents, most of which are developed using Ruby on Rails technologies.
   - Developed new features and enhanced existing functionalities for the TotSpot social networking web site using Facebook’s OpenStream API and Twitter’s OAuth API
   - Developed a web-based photo-management application using Ruby on Rails 2.3.x and Facebook REST API
   - Developed iPhone application to render photos as cartoonized images
 
-Web Developer at **Syndeo Media** - Oct 2007 to Oct 2008
+* Web Developer at **Syndeo Media** - Oct 2007 to Oct 2008
 
   - Implemented new features and enhanced existing functionalities for client-based projects using Ruby on Rails
 
-Software Developer at **Solegy** - May 2006 to Oct 2007
+* Software Developer at **Solegy** - May 2006 to Oct 2007
 
   - Developed and maintained new and existing software solutions using a mix of C++, Java (J2SE and J2EE) and Ruby coding languages
 
-Part-Time Instructor at **Ateneo de Manila University** - Jun 2005 to Nov 2005
+* Part-Time Instructor at **Ateneo de Manila University** - Jun 2005 to Nov 2005
   - Taught college classes for "Introduction to Computing: C/C++ Programming" and "Introduction to Data Structures and Algorithms"
 
-Software Design Engineer at **Blue Chip Designs** - Mar 2005 to May 2006
+* Software Design Engineer at **Blue Chip Designs** - Mar 2005 to May 2006
 
   - Developed software solutions (drivers, firmware, desktop applications) for thermal printer devices, point-of-sales systems using C/C++ and OLE, ActiveX, COM, MFC frameworks
 
