@@ -22,7 +22,11 @@ Ruby, Ruby on Rails, Javascript, Ember.js
 ***
 * Software Engineer at **New Relic** - Jan 2015 to Present
 
- I help lead the business enablement team to write better software for use by other parts of the company by advocating for proper code structure, abstraction, and encapsulation to ensure that the code we deliver is coherent, well-defined, and adhering to the defined acceptance criteria. I also ensure that any code that goes through are properly tested and documented as I believe not only in coding for myself, but also for the rest of the team and future teams that will come upon what we create. I constantly push for a distributed software architecture in introducing new services into our small cluster of services to deliver the most efficient solution to our business needs.
+ I help lead the business enablement team to write better software for use by other parts of the company by advocating for proper code structure, abstraction, and encapsulation to ensure that the code we deliver is coherent, well-defined, and adhering to the defined acceptance criteria.
+ 
+ I also ensure that any code that goes through are properly tested and documented as I believe not only in coding for myself, but also for the rest of the team and future teams that will come upon what we create. 
+ 
+ I constantly push for a distributed software architecture in introducing new services into our small cluster of services to deliver the most efficient solution to our business needs.
 
 * Software Engineer at **Quad Learning** - Mar 2013 to Jan 2015
 
