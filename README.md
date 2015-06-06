@@ -1,9 +1,12 @@
 ## Evan Sagge
 ***
- **Software Developer**  
- San Francisco, CA
- <evansagge@gmail.com>  
- <http://github.com/evansagge>
+**Software Developer**  
+
+San Francisco, CA
+ 
+<evansagge@gmail.com> 
+
+<http://github.com/evansagge>
 
 I am a software developer with a focus on web applications development, with years of experience in various languages such as Ruby, Java, PHP and C/C++. I specialize in writing web applications, with a focus on Ruby and Rack-based frameworks. I also write code in Javascript and design clean and simple web interfaces.
 
