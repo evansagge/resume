@@ -31,7 +31,7 @@ Ruby, Ruby on Rails, Javascript, Ember.js
 
  I was also instrumental in redesigning this application and setting up the architecture to turn it into a distributed and service-oriented cluster of web APIs, each with a defined purpose, and consumed through Javascript-based web applications.
 
-* Software Developer at **Gannett** - Oct 2012 to Present
+* Software Developer at **Gannett** - Oct 2012 to Mar 2013
 
  As a consultant for Gannet, I implemented software solutions to the Gannett Advertising department using Salesforce and Ruby on Rails.
 
