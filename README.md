@@ -1,15 +1,21 @@
 ## Evan Sagge
 ***
-**Software Developer**  
+**Lead Software Engineer, Software Architect, Technical Lead**
 San Francisco, CA | <evansagge@gmail.com> | <http://github.com/evansagge>
 
-I am a software developer with a focus on web applications development, with years of experience in various languages such as Ruby, Java, PHP and C/C++. I specialize in writing web applications, with a focus on Ruby and Rack-based frameworks. I also write code in Javascript and design clean and simple web interfaces.
+Software professional with over ten years of experience in software design and development.
 
-I am heavily influenced with agile development practices, mostly from Scrum, REST-ful web development, test-driven development, behavior-driven development, and DCI. In software that I design and code, I strive to ensure that the desired application behavior are properly identified from a practical standpoint and at the same time focusing on delivering efficient, usable, manageable and modular software.
+I focus on leading software teams build lean and clean web applications and services, and designing and implementing service oriented architectures.
 
-I also keep a repository of personal and open-source projects on my Github page: <http://github.com/evansagge>.
+With an aim towards full-stack engineering, I specialize in producing web applications and services using Ruby on Rails and other Rack-based frameworks. I also write Javascript/Coffeescript and design clean and simple HTML5/CSS3-compliant web UIs.
 
-***  
+I am heavily influenced by agile development techniques, Scrum, Kanban, REST, test-driven development, behavior-driven development, MVC, DCI, and other lean coding techniques, ensuring that the desired software behavior are properly identified from a pragmatic approach and with clear parameters, and focusing on delivering simple, efficient, and usable software.
+
+In my free time, I enjoy playing soccer, hiking, running, biking, and traveling to new places.
+
+I also keep a repository of personal and open-source projects on my Github page: http://github.com/evansagge.
+
+***
 ### Specializations
 ***
 Ruby, Ruby on Rails, Javascript, Ember.js
