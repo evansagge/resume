@@ -18,12 +18,14 @@ I also keep a repository of personal and open-source projects on my Github page:
 ***
 ### Specializations
 ***
-Ruby, Ruby on Rails, Javascript, Ember.js
+Ruby, Ruby on Rails, Javascript, Ember.js, Service Oriented Architectures, JSON APIs, Continuous Integration, Test-Driven Development
 
 ***
 ### Professional Experience
 ***
-* Senior Software Engineer at **New Relic** - Jan 2015 to Present
+* Senior Software Engineer at **Entelo** - Aug 2015 to Present
+
+* Senior Software Engineer at **New Relic** - Jan 2015 to Aug 2015
 
  I help lead the business enablement team to write better software for use by other parts of the company by advocating for proper code structure, abstraction, and encapsulation to ensure that the code we deliver is coherent, well-defined, and adhering to the defined acceptance criteria.
 
